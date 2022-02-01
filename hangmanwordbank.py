@@ -1,3 +1,6 @@
+#Author: Chris Horton
+#https://gist.github.com/chrishorton
+
 HANGMANPICS = ['''
   +---+
   |   |
